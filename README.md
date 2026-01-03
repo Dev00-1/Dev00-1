@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm DEV MALANG</h1>
-<h3 align="center">A passionate Full Stack developer and Devops enthusiast</h3>
+<h3 align="center">Bridging full-stack development with AI systems.
+Actively exploring LLMs and their real-world web integrations.
+An enthusiastic learner focused on building and evolving.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev00-1&label=Profile%20views&color=0e75b6&style=flat" alt="dev00-1" /> </p>
 
